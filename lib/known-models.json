@@ -3786,6 +3786,43 @@
       "maxOutput": 130000
     }
   },
+  "atlascloud": {
+    "deepseek-ai/DeepSeek-V3.1-Terminus": {
+      "name": "DeepSeek V3.1 Terminus",
+      "context": 131072,
+      "maxOutput": 65536,
+      "image": false,
+      "reasoning": true
+    },
+    "deepseek-ai/DeepSeek-V3.2-Exp": {
+      "name": "DeepSeek V3.2 Exp",
+      "context": 163840,
+      "maxOutput": 163840,
+      "image": false,
+      "reasoning": true
+    },
+    "Qwen/Qwen3-235B-A22B-Instruct-2507": {
+      "name": "Qwen3-235B-A22B-Instruct-2507",
+      "context": 131072,
+      "maxOutput": 131072,
+      "image": false,
+      "reasoning": false
+    },
+    "moonshotai/kimi-k2.6": {
+      "name": "Kimi K2.6",
+      "context": 262144,
+      "maxOutput": 262144,
+      "image": true,
+      "reasoning": true
+    },
+    "zai-org/glm-4.7": {
+      "name": "GLM 4.7",
+      "context": 202752,
+      "maxOutput": 202752,
+      "image": false,
+      "reasoning": true
+    }
+  },
   "fireworks": {
     "deepseek-coder-v2-instruct": {
       "name": "Deepseek Coder V2 Instruct",

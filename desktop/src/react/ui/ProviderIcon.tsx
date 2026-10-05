@@ -23,6 +23,7 @@ const PROVIDER_TO_ICON: Record<string, string> = {
   'minimax-token-plan': 'minimax',
   openrouter: 'openrouter',
   fireworks: 'fireworks',
+  atlascloud: 'atlascloud',
   mimo: 'xiaomimimo',
   'mimo-token-plan': 'xiaomimimo',
   ollama: 'ollama',

@@ -67,6 +67,11 @@
     "accounts/fireworks/models/deepseek-r1"
   ],
 
+  "atlascloud": [
+    "deepseek-ai/DeepSeek-V3.1-Terminus",
+    "deepseek-ai/DeepSeek-V3.2-Exp"
+  ],
+
   "gemini": [
     "gemini-3-pro-preview",
     "gemini-3-flash-preview"

@@ -399,6 +399,7 @@ import { systemSpeechPlugin } from "../lib/providers/system-speech.ts";
 import { groqPlugin } from "../lib/providers/groq.ts";
 import { togetherPlugin } from "../lib/providers/together.ts";
 import { fireworksPlugin } from "../lib/providers/fireworks.ts";
+import { atlascloudPlugin } from "../lib/providers/atlascloud.ts";
 import { mistralPlugin } from "../lib/providers/mistral.ts";
 import { perplexityPlugin } from "../lib/providers/perplexity.ts";
 import { xaiPlugin } from "../lib/providers/xai.ts";
@@ -443,6 +444,7 @@ const BUILTIN_PLUGINS = [
   groqPlugin,
   togetherPlugin,
   fireworksPlugin,
+  atlascloudPlugin,
   mistralPlugin,
   perplexityPlugin,
   xaiPlugin,
